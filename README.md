@@ -26,7 +26,7 @@ Manual-Testing-Project/
 └── Test_Summary_Report.docx # (Optional) Summary of execution and test metrics
 
 
----
+------------------------------------------------------------------------------------------------------------
 
 ## 📄 Test Artifacts
 
@@ -74,9 +74,3 @@ Includes:
 - Students and freshers preparing for QA interviews
 - Transitioning from manual to automation testing
 
----
-
-## 📬 Feedback
-
-Feel free to raise issues or suggest improvements to enhance this project.  
-Happy Testing! 🎯
